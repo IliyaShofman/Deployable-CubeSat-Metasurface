@@ -4,8 +4,11 @@ This is my research project during my internship at the Reconfigurable Antenna L
 
 The SOLIDWORKS model of the concept is sotred in this repository. 
 
+##Design Concept
 <img src="https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/Concept%202.png" width="500" />
 
+
+##Deployment Animation
 <img src="https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/DEPLOYMENT.gif" width="500" />
 
 
