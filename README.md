@@ -3,3 +3,7 @@ This is my research project during my internship at the Reconfigurable Antenna L
 *The goal of this project is to develop a mechanism which would stow and deploy flat, thin Metasurface panels that cover a large area from a small-volume nanosatellite. Novel prototypes, testing setups and measuring methods have been developed and built to validate the design in laboratory settings. This research, sponsored by Thales Alenia Space, will enable the demonstration of technological matureness for deployed meta-surface antenna systems for emerging 5G and IoT space communication applications.*
 
 The SOLIDWORKS model of the concept is sotred in this repository. 
+
+![Design Concept Explained](https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/Concept%202.png)
+
+![Deployment Animation]https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/DEPLOYMENT.gif)
