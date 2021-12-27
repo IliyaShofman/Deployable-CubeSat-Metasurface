@@ -6,4 +6,4 @@ The SOLIDWORKS model of the concept is sotred in this repository.
 
 ![Design Concept Explained](https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/Concept%202.png)
 
-![Deployment Animation]https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/DEPLOYMENT.gif)
+![Deployment Animation]https://github.com/IliyaShofman/Deployable-CubeSat-Metasurface/blob/main/DEPLOYMENT.gif) 
